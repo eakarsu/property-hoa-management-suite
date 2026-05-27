@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/board-packets`
+- `/violation-notices`
+- `/hoa-requests`
 - `/records`
 - `/workspaces`
 - `/requests`

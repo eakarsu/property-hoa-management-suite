@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## HOA Community Manager
+
+- HOA Requests
+- Violation Notices
+- Board Packets
+
+## Focused enhancement: HOA Community Manager
+
+Source evidence: AIHOACommunityAssociationManager.

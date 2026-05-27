@@ -8,4 +8,20 @@ export type SourceDashboardAction = {
   count: number;
 };
 
-export const sourceDashboardActions: SourceDashboardAction[] = [];
+export const sourceDashboardActions: SourceDashboardAction[] = [
+  {
+    "id": "hoa-community-manager",
+    "label": "HOA Community Manager",
+    "description": "Open HOA Community Manager workflows elevated from AIHOACommunityAssociationManager.",
+    "href": "/hoa-requests",
+    "sourceProjects": [
+      "AIHOACommunityAssociationManager"
+    ],
+    "examples": [
+      "HOA Requests",
+      "Violation Notices",
+      "Board Packets"
+    ],
+    "count": 1
+  }
+];
